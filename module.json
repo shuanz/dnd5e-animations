@@ -33,7 +33,7 @@
         "path": "languages/it.json"
     }
   ],
-  "url": "https://github.com/MrVauxs/dnd5e-animations",
+  "url": "https://github.com/shuanz/dnd5e-animations",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -88,7 +88,7 @@
       }
     ]
   },
-  "changelog": "https://github.com/MrVauxs/dnd5e-animations/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.json",
-  "download": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.zip"
+  "changelog": "https://github.com/shuanz/dnd5e-animations/blob/master/CHANGELOG.md",
+  "manifest": "https://raw.githubusercontent.com/shuanz/dnd5e-animations/master/module.json",
+  "download": "https://github.com/shuanz/dnd5e-animations/releases/latest/download/module.zip"
 }
